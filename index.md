@@ -23,10 +23,10 @@
   }
 </script>
 
-<button onclick="p1_click()">P1</button>
 ### [P1 link](https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf)
+<button onclick="p1_click()">P1</button>
 <embed id='p1_pdf' src='https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf' width='100%' height='700px' style='display:none'>
 
-<button onclick="p2_click()">P2</button>
 ### [P2 link](https://seavanas.github.io/CPSC481/p2.pdf)
+<button onclick="p2_click()">P2</button>
 <embed id='p2_pdf' src='https://seavanas.github.io/CPSC481/p2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
