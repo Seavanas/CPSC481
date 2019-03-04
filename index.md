@@ -4,9 +4,11 @@
 * Colin Thompson
 * Tyson Wasylik
 * Yu-Hsiang Wen (Sean)
+
 <script>
-  function p1_click() {document.getElementById("p1_pdf").innerHTML = "<embed src='https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf' type='application/pdf' width='100%' height='700px'>"}
+  function p1_click() {document.getElementById("p1_pdf").innerHTML = "<embed src='https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf' type='application/pdf' width='100%' height='700px'></embed>"}
 </script>
+
 <button onclick="p1_click()">P1</button>
 <div id="p1_pdf">a</div>
 # [P1 link](https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf)
