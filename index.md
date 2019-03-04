@@ -1,5 +1,4 @@
-## CPSC 481 Group project - Restaurant reservation app/website
-
+### CPSC 481 Group project - Restaurant reservation app/website
 **Team memebers:**
 * Akaljot Sangha
 * Colin Thompson
