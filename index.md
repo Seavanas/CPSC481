@@ -14,13 +14,19 @@
       p1_pdf.style.display = "none"
   }
   
-  function p2_click() {document.getElementById("p2_pdf").innerHTML = "<embed src='https://seavanas.github.io/CPSC481/p2.pdf' type='application/pdf' width='100%' height='700px'></embed>"}
+  function p2_click() {
+    p2_pdf = document.getElementById("p2_pdf")
+    if (p2_pdf.style.display == "none")
+      p2_pdf.style.display = "block"
+    else
+      p2_pdf.style.display = "none"
+  }
 </script>
 
 <button onclick="p1_click()">P1</button>
 ### [P1 link](https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf)
-<embed id='p1_pdf' src='https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf' width='100%' height='700px' style='display:none'></embed>
+<embed id='p1_pdf' src='https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf' width='100%' height='700px' style='display:none'>
 
 <button onclick="p2_click()">P2</button>
 ### [P2 link](https://seavanas.github.io/CPSC481/p2.pdf)
-<embed id='p2_pdf' src='https://seavanas.github.io/CPSC481/p2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'></embed>
+<embed id='p2_pdf' src='https://seavanas.github.io/CPSC481/p2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
