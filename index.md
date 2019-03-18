@@ -37,6 +37,7 @@
 ### [P2 link](https://seavanas.github.io/CPSC481/p2.pdf)
 <button onclick="pdf_click('p2_pdf')">P2</button>
 <embed id='p2_pdf' src='https://seavanas.github.io/CPSC481/p2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
+<br>
 ### [P3 link](https://seavanas.github.io/CPSC481/p3.pdf)
 <button onclick="pdf_click('p3_pdf')">P3</button>
 <embed id='p3_pdf' src='https://seavanas.github.io/CPSC481/p3.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
