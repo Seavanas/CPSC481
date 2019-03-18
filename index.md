@@ -14,12 +14,12 @@
       p1_pdf.style.display = "none"
   }
   
-  function p2_click() {
-    p2_pdf = document.getElementById("p2_pdf")
-    if (p2_pdf.style.display == "none")
-      p2_pdf.style.display = "block"
+  function p3_click() {
+    p3_pdf = document.getElementById("p3_pdf")
+    if (p3_pdf.style.display == "none")
+      p3_pdf.style.display = "block"
     else
-      p2_pdf.style.display = "none"
+      p3_pdf.style.display = "none"
   }
 </script>
 
@@ -30,3 +30,6 @@
 ### [P2 link](https://seavanas.github.io/CPSC481/p2.pdf)
 <button onclick="p2_click()">P2</button>
 <embed id='p2_pdf' src='https://seavanas.github.io/CPSC481/p2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
+### [P3 link](https://seavanas.github.io/CPSC481/p3.pdf)
+<button onclick="p3_click()">P3</button>
+<embed id='p3_pdf' src='https://seavanas.github.io/CPSC481/p3.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
