@@ -38,6 +38,6 @@
 <button onclick="pdf_click('p2_pdf')">P2</button>
 <embed id='p2_pdf' src='https://seavanas.github.io/CPSC481/p2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
 <br>
-### [P3 link](https://xd.adobe.com/view/50dac97f-0b7b-4b48-6e83-850e25e67140-26eb/?fullscreen&hints=off)
+### [Interactive P3 link](https://xd.adobe.com/view/50dac97f-0b7b-4b48-6e83-850e25e67140-26eb/?fullscreen&hints=off)
 <button onclick="pdf_click('p3_pdf')">View P3 in PDF</button>
 <embed id='p3_pdf' src='https://seavanas.github.io/CPSC481/p3.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
