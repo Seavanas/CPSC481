@@ -13,21 +13,6 @@
     else
       pdf.style.display = "none"
   }
-  function p1_click() {
-    p1_pdf = document.getElementById("p1_pdf")
-    if (p1_pdf.style.display == "none")
-      p1_pdf.style.display = "block"
-    else
-      p1_pdf.style.display = "none"
-  }
-  
-  function p3_click() {
-    p3_pdf = document.getElementById("p3_pdf")
-    if (p3_pdf.style.display == "none")
-      p3_pdf.style.display = "block"
-    else
-      p3_pdf.style.display = "none"
-  }
 </script>
 
 ### [P1 link](https://seavanas.github.io/CPSC481/team-acts__project_a1.pdf)
@@ -41,3 +26,7 @@
 ### [Interactive P3 link](https://xd.adobe.com/view/50dac97f-0b7b-4b48-6e83-850e25e67140-26eb/?fullscreen&hints=off)
 <button onclick="pdf_click('p3_pdf')">View P3 in PDF</button>
 <embed id='p3_pdf' src='https://seavanas.github.io/CPSC481/p3.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
+
+### [P3 - part2 link](https://seavanas.github.io/CPSC481/P3-part2.pdf)
+<button onclick="pdf_click('P3_part2_pdf')">View P3 in PDF</button>
+<embed id='p3_part2_pdf' src='https://seavanas.github.io/CPSC481/P3-part2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
