@@ -28,5 +28,5 @@
 <embed id='p3_pdf' src='https://seavanas.github.io/CPSC481/p3.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
 
 ### [P3-part2 link](https://seavanas.github.io/CPSC481/P3-part2.pdf)
-<button onclick="pdf_click('P3_part2_pdf')">P3-part2</button>
+<button onclick="pdf_click('p3_part2_pdf')">P3-part2</button>
 <embed id='p3_part2_pdf' src='https://seavanas.github.io/CPSC481/P3-part2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
