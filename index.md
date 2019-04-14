@@ -33,4 +33,4 @@
 <br>
 ### [Interactive P4 link](https://xd.adobe.com/view/9fbd54c7-72fe-4eba-4fe4-b1fde3dc0dec-e98c/)
 <button onclick="pdf_click('p4_pdf')">View Final Report</button>
-<embed id='p4_pdf' src='https://seavanas.github.io/CPSC481/p3.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
+<embed id='p4_pdf' src='https://seavanas.github.io/CPSC481/P4-Final_Report.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
