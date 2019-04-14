@@ -30,3 +30,5 @@
 ### [P3-part2 link](https://seavanas.github.io/CPSC481/P3-part2.pdf)
 <button onclick="pdf_click('p3_part2_pdf')">P3-part2</button>
 <embed id='p3_part2_pdf' src='https://seavanas.github.io/CPSC481/P3-part2.pdf' type='application/pdf' width='100%' height='700px' style='display:none'>
+<br>
+### [Interactive P4 link](https://xd.adobe.com/view/9fbd54c7-72fe-4eba-4fe4-b1fde3dc0dec-e98c/)
